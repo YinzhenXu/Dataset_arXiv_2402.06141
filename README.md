@@ -6,15 +6,15 @@ BibTeX and other citation formats are available at the link above.
 
 Data format:
 
-Each data file consists of two columns. The first column represents $Q^2$ in units of GeV^2, the second column gives the corresponding value of the form factor $F(Q^2)$.
+Each data file consists of two columns. The first column represents Q^2 in units of GeV^2, the second column gives the corresponding value of the form factor F(Q^2).
 
 File descriptions:
 
-udPS.dat: $pi^+$ meson
+udPS.dat: pi^+ meson
 
-udVC1.dat, udVC2.dat, udVC3.dat: $rho^+$ meson
+udVC1.dat, udVC2.dat, udVC3.dat: rho^+ meson
 
-usPS.dat: $K^+$ meson 
+usPS.dat: K^+ meson 
 
 …
 
