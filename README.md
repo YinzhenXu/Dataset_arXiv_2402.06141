@@ -4,18 +4,18 @@ If you use this data in your work, please cite the paper via the following INSPI
 
 BibTeX and other citation formats are available at the link above.
 
-Each data file consists of two columns:
+Data format:
 
-The first column represents Q^2 in units of GeV^2
-The second column gives the corresponding value of the form factor F(Q^2).
+Each data file consists of two columns. The first column represents $Q^2$ in units of GeV^2, the second column gives the corresponding value of the form factor $F(Q^2)$.
 
 File descriptions:
 
-udPS.dat: pi^+ meson
+udPS.dat: $pi^+$ meson
 
-udVC1.dat, udVC2.dat, udVC3.dat: rho meson
+udVC1.dat, udVC2.dat, udVC3.dat: $rho^+$ meson
 
-usPS.dat: K^+ meson
+usPS.dat: $K^+$ meson 
+
 …
 
 A sample Mathematica notebook (Plot.nb) is provided to demonstrate how to load and visualize the data.
