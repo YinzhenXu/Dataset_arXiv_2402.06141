@@ -14,7 +14,7 @@ vector mesons: pi^+, K^\*+, K^\*0, D^\*+, D^\*0, D^\*_s, B^\*+, B^\*0, B^\*_s, B
 
 Data format:
 
-Each data file consists of two columns. The first column represents Q^2 in units of GeV^2, the second column gives the corresponding value of the form factor F(Q^2).
+Each data file consists of two columns. The first column represents Q^2 in units of GeV^2, the second column gives the corresponding value of the EFFs F(Q^2).
 
 File names:
 
