@@ -6,7 +6,7 @@ BibTeX and other citation formats are available at the link above.
 
 Data descriptions:
 
-This dataset provides the elastic electromagnetic form factors(EFFs) of mesons, including: 
+This dataset provides the elastic electromagnetic form factors (EFFs) of mesons, including: 
 
 pseudoscalar mesons: pi^+, K^+, K^0, D^+, D^0, D_s, B^+, B^0, B_s, B_c 
 
